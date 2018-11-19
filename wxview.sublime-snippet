@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+<view class="${1}">${2}</view>
+]]></content>
+  <tabTrigger>vv</tabTrigger>
+</snippet>
